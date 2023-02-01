@@ -19,7 +19,7 @@ const Home = () => {
         <div className="container">
           <div className="row py-4 lh-lg align-items-center">
             <div className="col-md-3 p-md-3 p-5">
-              <img src="/1.png" alt="" className="rounded-circle trans-all scale-up" />
+              <img src="1.png" alt="" className="rounded-circle trans-all scale-up" />
             </div>
             <div className="col-md-9 p-3">
               <p className="h3 pb-2 text-center text-md-end">

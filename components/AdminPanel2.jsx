@@ -74,23 +74,23 @@ const AdminPanel2 = () => {
             </div>
             <div className="col-md-9 row align-items-center">
               <div className="col-md-12 p-2">
-                <img src="/admin-panel-2/1.png" alt="" className="rounded-3" />
+                <img src="admin-panel-2/1.png" alt="" className="rounded-3" />
               </div>
 
               <div className="col-md-4 p-2 d-none d-md-block">
-                <img src="/admin-panel-2/1.png" alt="" className="rounded-3" />
+                <img src="admin-panel-2/1.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2">
-                <img src="/admin-panel-2/2.png" alt="" className="rounded-3" />
+                <img src="admin-panel-2/2.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2 row">
                 <div className="col-1" />
                 <div className="col-5">
-                  <img src="/admin-panel-2/5.png" alt="" className="rounded-3" />
+                  <img src="admin-panel-2/5.png" alt="" className="rounded-3" />
                 </div>
                 <div className="col-1" />
                 <div className="col-5">
-                  <img src="/admin-panel-2/4.png" alt="" className="rounded-3" />
+                  <img src="admin-panel-2/4.png" alt="" className="rounded-3" />
                 </div>
               </div>
             </div>

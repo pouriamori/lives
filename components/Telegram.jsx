@@ -65,17 +65,17 @@ const Telegram = () => {
             </div>
             <div className="col-md-9 row">
               <div className="col-md-12 p-2">
-                <img src="/telegram/1.png" alt="" className="rounded-3" />
+                <img src="telegram/1.png" alt="" className="rounded-3" />
               </div>
 
               <div className="col-md-4 p-2">
-                <img src="/telegram/2.png" alt="" className="rounded-3" />
+                <img src="telegram/2.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2">
-                <img src="/telegram/3.png" alt="" className="rounded-3" />
+                <img src="telegram/3.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2">
-                <img src="/telegram/4.png" alt="" className="rounded-3" />
+                <img src="telegram/4.png" alt="" className="rounded-3" />
               </div>
             </div>
           </div>

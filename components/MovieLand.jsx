@@ -62,7 +62,7 @@ const MovieLand = () => {
             </div>
             <div className="col-md-9 row">
               <div className="col-md-12 p-2">
-                <img src="/movie-land/1.png" alt="" className="rounded-3" />
+                <img src="movie-land/1.png" alt="" className="rounded-3" />
               </div>
             </div>
           </div>

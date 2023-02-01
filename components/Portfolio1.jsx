@@ -62,17 +62,17 @@ const Portfolio1 = () => {
             </div>
             <div className="col-md-9 row">
               <div className="col-md-12 p-2">
-                <img src="/portfolio-1/1.png" alt="" className="rounded-3" />
+                <img src="portfolio-1/1.png" alt="" className="rounded-3" />
               </div>
 
               <div className="col-md-4 p-2">
-                <img src="/portfolio-1/2.png" alt="" className="rounded-3" />
+                <img src="portfolio-1/2.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2">
-                <img src="/portfolio-1/3.png" alt="" className="rounded-3" />
+                <img src="portfolio-1/3.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2">
-                <img src="/portfolio-1/4.png" alt="" className="rounded-3" />
+                <img src="portfolio-1/4.png" alt="" className="rounded-3" />
               </div>
             </div>
           </div>
