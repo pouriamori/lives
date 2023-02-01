@@ -62,7 +62,7 @@ const AdminPanel1 = () => {
 
                 <li className="text-center pt-5 pb-md-0 pb-3">
                   <a href="https://boisterous-donut-58d3cd.netlify.app" target="_blank"
-                   rel="noopener noreferrer">
+                    rel="noopener noreferrer">
                     <button className="btn btn-secondary w-100">
                       <span>مشاهده ی لایو </span>
                       <span className="small"><BsChevronLeft /></span>
@@ -75,7 +75,7 @@ const AdminPanel1 = () => {
 
             <div className="col-md-9 row align-items-center">
               <div className="col-md-12 p-2">
-                <img src="/admin-panel-1/1.png" alt="" className="rounded-3" />
+                <img src="admin-panel-1/1.png" alt="" className="rounded-3" />
               </div>
               <div className="col-md-4 p-2">
                 <img src="/admin-panel-1/3.png" alt="" className="rounded-3" />
