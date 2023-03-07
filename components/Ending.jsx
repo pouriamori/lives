@@ -86,7 +86,7 @@ const Ending = () => {
                 <span>
                   حقوق درخواستی:
                 </span>
-                <span className='px-1 h3'>
+                <span className='px-1 h5'>
                   حداقل دو برابر پایه حقوق
                 </span>
                 {/* <span>
