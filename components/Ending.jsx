@@ -87,11 +87,11 @@ const Ending = () => {
                   حقوق درخواستی:
                 </span>
                 <span className='px-1 h3'>
-                  9
+                  حداقل دو برابر پایه حقوق
                 </span>
-                <span>
+                {/* <span>
                   تومان
-                </span>
+                </span> */}
               </p>
               <p className='px-2 small py-2 pt-4'>
                 <span>لازم به ذکر است که در حال حاضر حقوق برنامه نویس سینیور ری اکت در ایران</span>
