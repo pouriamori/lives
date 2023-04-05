@@ -28,7 +28,7 @@ const Home = () => {
               <hr className="w-75" />
               <ul className="pe-4 list-resume ">
                 <li>
-                  طراح و توسعه دهنده ی  React - Frontend (Midlevel)
+                  طراح و توسعه دهنده ی  React - Frontend (Senior)
                 </li>
                 <li>
                   متولد 1378 در هشترود
