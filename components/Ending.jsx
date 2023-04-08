@@ -76,6 +76,9 @@ const Ending = () => {
                   </li>
                 </ul>
               </div>
+            </div>
+
+
 
           </div>
         </div>
@@ -84,4 +87,4 @@ const Ending = () => {
   )
 }
 
-export default Ending
+export default Ending;
