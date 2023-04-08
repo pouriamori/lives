@@ -16,8 +16,8 @@ const Ending = () => {
             </div>
           </div>
           <div className="row">
-            <div className="col-md-7 ps-md-4 py-md-0 py-4">
-              <ul className='lh-lg pe-4 list-resume pb-3 small'>
+            <div className="col-md-12 ps-md-4 py-md-0 py-4 text-center">
+              <ul className='lh-lg pe-4 list-resume pb-3 small text-center'>
                 <li >
                   کد نویسی به روز و مطابق با استاندارد های همگانی مانند Es7
                 </li>
