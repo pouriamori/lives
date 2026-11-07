@@ -1,3 +1,4 @@
+
 import { BsChevronLeft } from "react-icons/bs";
 import Corner from './Corner'
 
@@ -61,7 +62,7 @@ const AdminPanel1 = () => {
                 </li>
 
                 <li className="text-center pt-5 pb-md-0 pb-3">
-                  <a href="https://boisterous-donut-58d3cd.netlify.app" target="_blank"
+                  <a href="https://pouriamori.github.io/dashboard-1/" target="_blank"
                     rel="noopener noreferrer">
                     <button className="btn btn-secondary w-100">
                       <span>مشاهده ی لایو </span>
